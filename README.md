@@ -21,7 +21,7 @@
 
 1. 이 저장소를 클론합니다.
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone https://github.com/normaldeve/RentCar.git
 2. MySQL 데이터베이스를 설정합니다
   - 데이터베이스 및 테이블을 생성합니다
   - 데이터베이스 연결 정보를 BoardDAO, RentCarDAO 클래스에 맞게 수정합니다.
