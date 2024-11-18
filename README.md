@@ -28,3 +28,6 @@
 3. Apache Tomcat 서버에 프로젝트를 배포합니다.
   - Tomcat을 설치하고 프로젝트를 webapps 디렉토리에 배포합니다. 
 4. 브라우저에서 http://localhost:8080으로 접속하여 서비스를 확인합니다.
+
+<img width="572" alt="스크린샷 2024-11-18 오후 4 54 20" src="https://github.com/user-attachments/assets/5ecf1894-54e9-4df9-a476-536a01a22ee9">
+
