@@ -16,20 +16,7 @@
 - **JSP (Java Server Pages)**: 서버 측 템플릿 엔진으로 페이지를 동적으로 생성합니다.
 - **Java**: 서버 로직과 데이터베이스 연동을 처리합니다.
 - **MySQL**: 데이터베이스 시스템으로 게시글 데이터를 저장합니다.
-- **CSS**: 웹 페이지의 디자인과 스타일을 담당합니다.
-- **HTML**: 웹 페이지의 구조와 콘텐츠를 작성합니다.
-
-## 설치 방법
-
-1. 이 저장소를 클론합니다.
-   ```bash
-   git clone https://github.com/normaldeve/RentCar.git
-2. MySQL 데이터베이스를 설정합니다
-  - 데이터베이스 및 테이블을 생성합니다
-  - 데이터베이스 연결 정보를 BoardDAO, RentCarDAO 클래스에 맞게 수정합니다.
-3. Apache Tomcat 서버에 프로젝트를 배포합니다.
-  - Tomcat을 설치하고 프로젝트를 webapps 디렉토리에 배포합니다. 
-4. 브라우저에서 http://localhost:8080으로 접속하여 서비스를 확인합니다.
+- **CSS**: 웹 페이지의 디자인과 스타일을 담당합니다. 
 
 <img width="572" alt="스크린샷 2024-11-18 오후 4 54 20" src="https://github.com/user-attachments/assets/5ecf1894-54e9-4df9-a476-536a01a22ee9">
 
