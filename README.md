@@ -19,13 +19,13 @@
 - **CSS**: 웹 페이지의 디자인과 스타일을 담당합니다. 
 
 <img width="572" alt="스크린샷 2024-11-18 오후 4 54 20" src="https://github.com/user-attachments/assets/5ecf1894-54e9-4df9-a476-536a01a22ee9">
-<img width="699" alt="main" src="https://github.com/user-attachments/assets/c9b221af-285d-4c88-a359-95fec92edb4f" width="500">
+<img width="699" alt="main" src="https://github.com/user-attachments/assets/c9b221af-285d-4c88-a359-95fec92edb4f" width="100">
 
-<img width="697" alt="carreserveinfo" src="https://github.com/user-attachments/assets/c85b1fd1-4f2f-4ce1-b269-8767c8d654a0">
+<img width="697" alt="carreserveinfo" src="https://github.com/user-attachments/assets/c85b1fd1-4f2f-4ce1-b269-8767c8d654a0" width="100">
 <p align="center"><i>사진 설명: 차량 예약 정보 화면</i></p>
 
-<img width="553" alt="carreserveselect" src="https://github.com/user-attachments/assets/3bb54b7e-0585-40f5-97d3-683fe9d06318">
-<img width="673" alt="reservelist" src="https://github.com/user-attachments/assets/d57bfd58-fa32-4880-a010-d165ede18811">
-<img width="700" alt="boardlist" src="https://github.com/user-attachments/assets/8cdb9104-b6db-4187-9d11-8dbf3e0405c8">
-<img width="640" alt="boardinfo" src="https://github.com/user-attachments/assets/f3d86461-0526-4abd-89ad-a192df736ad6">
-<img width="677" alt="login" src="https://github.com/user-attachments/assets/1c767a8d-dfc9-4c90-ac3d-96e758ef1a42">
+<img width="553" alt="carreserveselect" src="https://github.com/user-attachments/assets/3bb54b7e-0585-40f5-97d3-683fe9d06318" width="100">
+<img width="673" alt="reservelist" src="https://github.com/user-attachments/assets/d57bfd58-fa32-4880-a010-d165ede18811" width="100">
+<img width="700" alt="boardlist" src="https://github.com/user-attachments/assets/8cdb9104-b6db-4187-9d11-8dbf3e0405c8" width="100">
+<img width="640" alt="boardinfo" src="https://github.com/user-attachments/assets/f3d86461-0526-4abd-89ad-a192df736ad6" width="100">
+<img width="677" alt="login" src="https://github.com/user-attachments/assets/1c767a8d-dfc9-4c90-ac3d-96e758ef1a42" width="100">
