@@ -19,7 +19,7 @@
 - **CSS**: 웹 페이지의 디자인과 스타일을 담당합니다. 
 
 <img width="572" alt="스크린샷 2024-11-18 오후 4 54 20" src="https://github.com/user-attachments/assets/5ecf1894-54e9-4df9-a476-536a01a22ee9">
-<img width="699" alt="main" src="https://github.com/user-attachments/assets/c9b221af-285d-4c88-a359-95fec92edb4f">
+<img width="699" alt="main" src="https://github.com/user-attachments/assets/c9b221af-285d-4c88-a359-95fec92edb4f" width="500">
 
 <img width="697" alt="carreserveinfo" src="https://github.com/user-attachments/assets/c85b1fd1-4f2f-4ce1-b269-8767c8d654a0">
 <p align="center"><i>사진 설명: 차량 예약 정보 화면</i></p>
